@@ -1,3 +1,6 @@
+# Name- Shubham Kumar Maurya
+Email:- shubhamkumarmaurya155@gmail.com
+
 # Carboncrunch 
 
 
@@ -18,10 +21,6 @@
 - **image1.jpeg**: The hero image used in the main section.
 - **image2.png**: The service image used in the services section.
 
-## Installation
-
-To run this project locally, follow these steps:
-
-1. **Clone the repository**:
+ **Clone the repository**:
    ```bash
    git clone https://github.com/MauryaShubhamkumar/Carbon-Crunch.git
